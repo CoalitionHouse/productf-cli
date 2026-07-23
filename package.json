@@ -1,0 +1,33 @@
+{
+  "name": "@productf/cli",
+  "version": "0.1.0",
+  "description": "Local dev-stack bootstrap and Brain MCP bridge for Product f(). Thin client only — no product prompts, schema, or business logic live here.",
+  "license": "UNLICENSED",
+  "type": "module",
+  "bin": {
+    "productf": "./dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsc -p .",
+    "prepublishOnly": "npm run build",
+    "typecheck": "tsc --noEmit -p ."
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "typescript": "^5.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coalitionhouse/productf-cli"
+  }
+}
