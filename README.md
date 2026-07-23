@@ -10,10 +10,10 @@ This package intentionally contains **no product prompts, schema, or business lo
 ## Install
 
 ```sh
-npx @productf/cli --help
+npx @productf/cli
 ```
 
-No global install needed — `npx` fetches the latest version each run.
+No global install is required — `npx` fetches the latest version on each run and displays usage information by default.
 
 ## Commands
 
