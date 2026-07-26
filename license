@@ -1,0 +1,22 @@
+Business Source License 1.1
+
+Licensor: Coalition House Products Inc
+Licensed Work: The @productf/cli software, including all source code files, build scripts, binaries, and documentation contained in this repository or distributed via the npm registry.
+Change Date: July 26, 2030
+Change License: Apache License, Version 2.0
+
+Additional Use Grant: You may use the Licensed Work for any non-commercial purpose. You may also use the Licensed Work for internal commercial purposes, provided that such use remains strictly within the limits of the free tier services offered by the Licensor. Any production or commercial use of the Licensed Work to host, distribute, or provide a competing Command Line Interface (CLI) tool, software-as-a-service (SaaS), or cloud-based API platform is strictly prohibited.
+
+Terms of the Business Source License
+
+1. The Licensor hereby grants you a right to use the Licensed Work in accordance with the Additional Use Grant above, provided that you comply with all terms and conditions of this License.
+
+2. On the Change Date, or upon an earlier public announcement by the Licensor, the Licensor hereby grants you a right to use the Licensed Work under the Change License.
+
+3. To the extent that the Additional Use Grant or the Change License requires attribution, you must include the following notice in all copies or substantial portions of the Licensed Work: "Copyright (c) 2026 Coalition House Products Inc. Licensed under the Business Source License 1.1; you may not use this file except in compliance with the License. You may obtain a copy of the License at https://mariadb.com."
+
+4. Intellectual Property Rights. The Licensor retains all ownership, title, and intellectual property rights in and to the Licensed Work. This License does not grant you any rights to trademarks, service marks, or logos of the Licensor.
+
+5. WARRANTY DISCLAIMER. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED WORK IS PROVIDED "AS IS" WITHOUT COSTS, LIABILITIES, OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+
+6. LIMITATION OF LIABILITY. TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE LICENSOR BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, OR USE, ARISING OUT OF OR IN CONNECTION WITH THIS LICENSE, REGARDLESS OF THE FORM OF ACTION.
