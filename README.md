@@ -66,4 +66,4 @@ Both fail with a clear message (not a confusing downstream error) if the expecte
 
 ## License
 
-Not yet decided — treat as all-rights-reserved until this is updated.
+Business Source License 1.1 — see the [`license`](./license) file for full terms. Free for non-commercial use and for internal commercial use within the Licensor's free-tier limits; converts to Apache License 2.0 on 2030-07-26.
