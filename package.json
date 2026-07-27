@@ -2,7 +2,7 @@
   "name": "@productf/cli",
   "version": "0.1.0",
   "description": "Local dev-stack bootstrap and Brain MCP bridge for Product f(). Thin client only — no product prompts, schema, or business logic live here.",
-  "license": "UNLICENSED",
+  "license": "SEE LICENSE IN license",
   "type": "module",
   "bin": {
     "productf": "./dist/index.js"
