@@ -1,6 +1,6 @@
 {
   "name": "@productf/cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Local dev-stack bootstrap and Brain MCP bridge for Product f(). Thin client only — no product prompts, schema, or business logic live here.",
   "license": "SEE LICENSE IN license",
   "type": "module",
@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coalitionhouse/productf-cli"
+    "url": "https://github.com/CoalitionHouse/productf-cli"
   }
 }
